@@ -1,4 +1,4 @@
-# 📝 ***Notes App — A Serverless Full-Stack web app on AWS***
+# 📝 Notes App — A Serverless Full-Stack web app on AWS
 
 Features: 
 - User auth (Cognito)
